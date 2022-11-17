@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lucienrl/history-mutation/issues"
   },
-  "homepage": "https://github.com/Lucienrl/history-mutation#readme"
+  "homepage": "https://github.com/Lucienrl/history-mutation#readme",
+  "dependencies": {
+    "events": "^3.0.0"
+  }
 }

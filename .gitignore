@@ -1,0 +1,17 @@
+node_modules
+
+# 系统文件
+.DS_store
+.vscode*
+
+# 构建输出
+build
+za-static-cdn
+dist
+
+# 临时目录
+.vscode
+.next
+.umi*
+.turbo
+.env.local
